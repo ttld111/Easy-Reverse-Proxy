@@ -6,7 +6,7 @@ export let PROXY_CODE_SECRET = 'titiliandu'; // 代理码密钥
 // 代理
 export let PROXIES: Proxy[] = [
     {
-        domain: "easy-reverse-proxy.pages.dev/",
+        domain: "easy-reverse-proxy-sooty.vercel.app",
         url: "https://www.reuters.com/",
         enable: true
     }
