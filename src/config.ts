@@ -6,7 +6,7 @@ export let PROXY_CODE_SECRET = 'titiliandu'; // 代理码密钥
 // 代理
 export let PROXIES: Proxy[] = [
     {
-        domain: "rts.ruby-jellyfin.top",
+        domain: "easy-reverse-proxy.pages.dev/",
         url: "https://www.reuters.com/",
         enable: true
     }
